@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nama": "Bestik Sapi",
+        "foto": "https://www.masakapahariini.com/wp-content/uploads/2018/09/bistik-daging-MAHI-1.jpg",
+        "deskripsi": "Bestik sapi adalah potongan daging tipis yang dimarinasi dengan bumbu khas, lalu dipanggang atau digoreng hingga empuk dan lezat. Sajian ini sering disertai dengan pelengkap seperti nasi atau kentang serta saus dan sayuran untuk meningkatkan kenikmatannya.",
+        "bahan": "potongan daging sapi tipis (seperti sirloin atau tenderloin), bumbu marinasi seperti kecap manis, bawang putih cincang, garam, merica, minyak zaitun, serta bahan pelengkap seperti nasi atau kentang, saus, dan sayuran segar seperti wortel atau brokoli."
+    },
+    {
+        "id": 2,
+        "nama": "Ayam Bakar Madu",
+        "foto": "",
+        "deskripsi": "Ayam bakar madu adalah sajian ayam yang dimarinasi dengan campuran madu, kecap manis, dan rempah-rempah, kemudian dipanggang hingga matang dan berwarna kecokelatan. Rasanya manis, gurih, dan sedikit pedas, cocok disantap dengan nasi hangat dan lalapan segar.",
+        "bahan": "potongan ayam, madu, kecap manis, bawang putih cincang, jahe cincang, cabai merah cincang, garam, merica, minyak goreng, serta pelengkap seperti nasi dan lalapan."
+    },
+    {
+        "id": 3,
+        "nama": "Pasta Carbonara",
+        "foto": "",
+        "deskripsi": "Pasta carbonara adalah hidangan pasta yang disajikan dengan saus krim yang kaya akan rasa keju parmesan, potongan daging bacon yang gurih, dan taburan parsley segar. Hidangan ini lezat disantap sebagai menu utama dalam makan malam yang spesial.",
+        "bahan": "pasta spaghetti, daging bacon, telur, keju parmesan parut, krim kental, bawang putih cincang, garam, merica, minyak zaitun, dan parsley segar."
+    }
+]
