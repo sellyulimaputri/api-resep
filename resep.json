@@ -15,9 +15,128 @@
     },
     {
         "id": 3,
-        "nama": "Pasta Carbonara",
-        "foto": "https://www.allrecipes.com/thmb/a_0W8yk_LLCtH-VPqg2uLD9I5Pk=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg",
-        "deskripsi": "Pasta carbonara adalah hidangan pasta yang disajikan dengan saus krim yang kaya akan rasa keju parmesan, potongan daging bacon yang gurih, dan taburan parsley segar. Hidangan ini lezat disantap sebagai menu utama dalam makan malam yang spesial.",
-        "bahan": "pasta spaghetti, daging bacon, telur, keju parmesan parut, krim kental, bawang putih cincang, garam, merica, minyak zaitun, dan parsley segar."
+        "nama": "Kue Cokelat Lumer",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fasset.kompas.com%2Fcrops%2FSnXRZvghIxEDt-Xuln6c_TzSVIU%3D%2F0x1%3A3500x2334%2F375x240%2Fdata%2Fphoto%2F2020%2F09%2F11%2F5f5b571f4efad.jpg&tbnid=IKzn6qoXR8grmM&vet=12ahUKEwi3vcfdlbKGAxVwxzgGHdoQA-IQMygRegQIARBn..i&imgrefurl=https%3A%2F%2Fwww.kompas.com%2Ffood%2Fread%2F2020%2F09%2F11%2F200000775%2Fresep-lava-cake-lumer-tak-perlu-pakai-oven&docid=httU7MXV-cbvJM&w=375&h=240&q=kue%20coklat%20lumer&ved=2ahUKEwi3vcfdlbKGAxVwxzgGHdoQA-IQMygRegQIARBn",
+        "deskripsi": "Kue cokelat lumer adalah kue dengan tekstur lembut dan lelehan cokelat di dalamnya. Cocok dinikmati dengan secangkir kopi atau teh.",
+        "bahan": "tepung terigu, cokelat bubuk, mentega, gula pasir, telur, baking powder, dan cokelat batang."
+    },
+    {
+        "id": 4,
+        "nama": "Lasagna Daging Sapi",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fd12man5gwydfvl.cloudfront.net%2Fwp-content%2Fuploads%2F2017%2F06%2FMau-Bisa-Bikin-Lasagna-Ini-Dia-Resep-Lasagna-Sederhana-Yang-Enak-Banget-dan-Bikin-Kamu-Ketagihan-Masak-Dirumah-940x667.jpg&tbnid=ZhCtBhtTy8YagM&vet=12ahUKEwjn9JbwlbKGAxWg8zgGHRM7D7YQMygAegQIARBI..i&imgrefurl=https%3A%2F%2Fwww.happyfresh.id%2Fblog%2Fresep%2Fresep-lasagna-sederhana%2F&docid=fw6BWIAEoNTfhM&w=940&h=667&q=lasagna%20daging%20sapi&ved=2ahUKEwjn9JbwlbKGAxWg8zgGHRM7D7YQMygAegQIARBI",
+        "deskripsi": "Lasagna daging sapi adalah pasta lapis dengan saus daging sapi, saus béchamel, dan keju, dipanggang hingga keju meleleh dan berwarna kecokelatan.",
+        "bahan": "lembaran lasagna, daging sapi cincang, saus tomat, bawang bombay cincang, bawang putih cincang, keju mozzarella, keju parmesan, dan saus béchamel."
+    },
+    {
+        "id": 5,
+        "nama": "Steak Daging Sapi",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fasset.kompas.com%2Fcrops%2F3EmhiZfAHuceq1HsvoSkCtecTl4%3D%2F0x0%3A4044x2696%2F750x500%2Fdata%2Fphoto%2F2021%2F03%2F19%2F6054801497f35.jpg&tbnid=3Ata9I4bUuNbBM&vet=12ahUKEwjrloL_lbKGAxWz-TgGHRzDCXsQMygOegQIARBt..i&imgrefurl=https%3A%2F%2Fwww.kompas.com%2Ffood%2Fread%2F2021%2F08%2F01%2F165153875%2Fresep-steak-daging-sapi-rumahan-teflon-tantangan-masterchef-indonesia&docid=8TBk9r66NMketM&w=750&h=500&q=steak%20daging%20sapi&ved=2ahUKEwjrloL_lbKGAxWz-TgGHRzDCXsQMygOegQIARBt",
+        "deskripsi": "Steak daging sapi adalah potongan daging sapi yang dipanggang atau digoreng hingga tingkat kematangan yang diinginkan. Biasanya disajikan dengan saus steak dan sayuran panggang.",
+        "bahan": "potongan daging sapi, garam, merica, minyak zaitun, bawang putih cincang, dan saus steak."
+    },
+    {
+        "id": 6,
+        "nama": "Spaghetti Carbonara",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fakcdn.detik.net.id%2Fvisual%2F2020%2F06%2F18%2Fspaghetti-carbonara_43.jpeg%3Fw%3D720%26q%3D90&tbnid=f2V8SwAV_ST_HM&vet=12ahUKEwiOvOWOlrKGAxUV-zgGHbmGB4oQMygPegQIARBy..i&imgrefurl=https%3A%2F%2Fwww.haibunda.com%2Fmoms-life%2F20200626100044-90-148390%2Fresep-spaghetti-carbonara-masak-ala-restoran-di-rumah&docid=ldrwd5PDctaFuM&w=720&h=540&q=spagethi%20carbonara&ved=2ahUKEwiOvOWOlrKGAxUV-zgGHbmGB4oQMygPegQIARBy",
+        "deskripsi": "Spaghetti carbonara adalah pasta yang disajikan dengan saus berbasis telur, keju, pancetta, dan lada hitam.",
+        "bahan": "spaghetti, telur, keju parmesan, pancetta atau bacon, bawang putih cincang, dan lada hitam."
+    },
+    {
+        "id": 7,
+        "nama": "Brownies Panggang",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fasset.kompas.com%2Fcrops%2FsejCGwBYXiVRn36owFQVFbMjb24%3D%2F0x17%3A700x484%2F750x500%2Fdata%2Fphoto%2F2024%2F03%2F09%2F65ec1147274ce.jpg&tbnid=DHTNoc5Z_cbzSM&vet=12ahUKEwit1PC6lrKGAxVn9zgGHeRRDtgQMygIegQIARBY..i&imgrefurl=https%3A%2F%2Fwww.kompas.com%2Ffood%2Fread%2F2024%2F03%2F10%2F073700675%2Fresep-brownies-panggang-dengan-tapai-camilan-manis-untuk-akhir-pekan&docid=7Wo7galNGr5kGM&w=750&h=500&q=brownies%20panggang&ved=2ahUKEwit1PC6lrKGAxVn9zgGHeRRDtgQMygIegQIARBY",
+        "deskripsi": "Brownies panggang adalah kue dengan tekstur fudgy yang kaya akan cokelat. Biasanya disajikan dalam potongan kotak kecil.",
+        "bahan": "tepung terigu, gula pasir, mentega, cokelat batang, telur, dan vanili."
+    },
+    {
+        "id": 8,
+        "nama": "Ayam Panggang Madu",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fayo-ma.com%2Fwp-content%2Fuploads%2F2023%2F12%2FWhatsApp-Image-2023-12-14-at-14.34.34-1.jpeg&tbnid=tGprKcmgXStKyM&vet=12ahUKEwjrlZ3IlrKGAxUz-zgGHbozClYQMygpegUIARCvAQ..i&imgrefurl=https%3A%2F%2Fayo-ma.com%2Frecipe-items%2Fayam-bakar-madu%2F&docid=gnFtsLJN3WeB6M&w=750&h=500&q=ayam%20panggang%20madu%20&ved=2ahUKEwjrlZ3IlrKGAxUz-zgGHbozClYQMygpegUIARCvAQ",
+        "deskripsi": "Ayam panggang madu adalah ayam yang dipanggang dengan bumbu madu, kecap manis, dan rempah-rempah hingga matang sempurna.",
+        "bahan": "ayam utuh, madu, kecap manis, bawang putih cincang, jahe cincang, garam, merica, dan minyak zaitun."
+    },
+    {
+        "id": 9,
+        "nama": "Pasta Alfredo",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0521%2F1763%2F5242%2Ffiles%2Fpasta_alfredo_hero_5_1024x1024.jpg%3Fv%3D1656573455&tbnid=8arBSKZ5VuHBeM&vet=12ahUKEwjxsMTYlrKGAxW_nmMGHVj8DnkQMygXegUIARCLAQ..i&imgrefurl=https%3A%2F%2Fwww.cookingpal.com%2Fblogs%2Frecipes%2Fpasta-alfredo&docid=Bz0twUd9lPz4fM&w=1024&h=768&q=pasta%20alfredo&ved=2ahUKEwjxsMTYlrKGAxW_nmMGHVj8DnkQMygXegUIARCLAQ",
+        "deskripsi": "Pasta Alfredo adalah pasta yang disajikan dengan saus krim yang terbuat dari mentega, keju parmesan, dan krim kental.",
+        "bahan": "fettuccine, mentega, keju parmesan, krim kental, dan bawang putih cincang."
+    },
+    {
+        "id": 10,
+        "nama": "Kue Keju",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn0-production-images-kly.akamaized.net%2FJDFKKOEn02a63LxWEsokRRh680w%3D%2F0x55%3A763x485%2F469x260%2Ffilters%3Aquality(75)%3Astrip_icc()%3Aformat(webp)%2Fkly-media-production%2Fmedias%2F4399594%2Foriginal%2F001920200_1681798640-shutterstock_1976868860.jpg&tbnid=BVBfPsdBVBPIPM&vet=12ahUKEwj8usbplrKGAxUu6jgGHZ3rD5IQMygAegQIARBE..i&imgrefurl=https%3A%2F%2Fwww.fimela.com%2Ffood%2Fread%2F5264742%2Fresep-kue-keju-1-kg-terigu-renyah-lembut&docid=c7I9FOckc-DbYM&w=469&h=260&q=kue%20keju&ved=2ahUKEwj8usbplrKGAxUu6jgGHZ3rD5IQMygAegQIARBE",
+        "deskripsi": "Kue keju adalah kue berbasis krim keju dengan tekstur lembut dan rasa yang creamy. Biasanya disajikan dengan saus buah atau topping lainnya.",
+        "bahan": "krim keju, gula pasir, telur, vanili, dan biskuit untuk dasar."
+    },
+    {
+        "id": 11,
+        "nama": "Rendang Daging",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masakapahariini.com%2Fwp-content%2Fuploads%2F2023%2F03%2Fshutterstock_1416902540_edited-500x300.jpeg&tbnid=3ddWj0TC4CsusM&vet=12ahUKEwissI34lrKGAxWJ7DgGHRm2A7MQMygZegUIARCNAQ..i&imgrefurl=https%3A%2F%2Fwww.masakapahariini.com%2Fresep%2Fresep-rendang-daging-sapi-empuk-dan-kaya-bumbu%2F&docid=oOcPV36UjileDM&w=500&h=300&q=rendang%20daging&ved=2ahUKEwissI34lrKGAxWJ7DgGHRm2A7MQMygZegUIARCNAQ",
+        "deskripsi": "Rendang daging adalah masakan khas Indonesia yang terbuat dari daging sapi yang dimasak lama dengan santan dan rempah-rempah hingga empuk dan bumbu meresap.",
+        "bahan": "daging sapi, santan, bawang merah, bawang putih, jahe, lengkuas, cabai merah, dan rempah-rempah."
+    },
+    {
+        "id": 12,
+        "nama": "Pasta Pesto",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ffood.fnr.sndimg.com%2Fcontent%2Fdam%2Fimages%2Ffood%2Ffullset%2F2011%2F2%2F17%2F0%2F0138230_pasta-salad_s4x3.jpg.rend.hgtvcom.1280.960.suffix%2F1390618917384.jpeg&tbnid=5pKfOW-NkF6HeM&vet=12ahUKEwiIlZOFl7KGAxWh-jgGHR85D0AQMygWegUIARCLAQ..i&imgrefurl=https%3A%2F%2Fwww.foodnetwork.com%2Frecipes%2Fina-garten%2Fpasta-pesto-and-peas-recipe2-1944911&docid=kEfFT1DW3UHZnM&w=1280&h=960&q=pasta%20pesto&ved=2ahUKEwiIlZOFl7KGAxWh-jgGHR85D0AQMygWegUIARCLAQ",
+        "deskripsi": "Pasta pesto adalah pasta yang disajikan dengan saus pesto yang terbuat dari daun basil, keju parmesan, kacang pinus, bawang putih, dan minyak zaitun.",
+        "bahan": "pasta, daun basil, keju parmesan, kacang pinus, bawang putih, dan minyak zaitun."
+    },
+    {
+        "id": 13,
+        "nama": "Nasi Goreng Spesial",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masakapahariini.com%2Fwp-content%2Fuploads%2F2021%2F07%2FNasi-Goreng-Spesial-Ayam-Kecombrang.jpg&tbnid=iTgdzzMdduTQDM&vet=12ahUKEwigtdK0l7KGAxWG1jgGHRFhCwgQMygGegQIARBf..i&imgrefurl=https%3A%2F%2Fwww.masakapahariini.com%2Fresep%2Fresep-nasi-goreng-spesial-ayam-kecombrang%2F&docid=oB-PePHqqSh2pM&w=1280&h=853&q=nasi%20goreng%20spesial&ved=2ahUKEwigtdK0l7KGAxWG1jgGHRFhCwgQMygGegQIARBf",
+        "deskripsi": "Nasi goreng spesial adalah nasi yang digoreng dengan campuran bumbu, telur, ayam, dan sayuran. Disajikan dengan kerupuk dan acar.",
+        "bahan": "nasi putih, telur, ayam suwir, wortel cincang, buncis cincang, bawang merah, bawang putih, kecap manis, garam, merica, dan minyak goreng."
+    },
+    {
+        "id": 14,
+        "nama": "Nasi Goreng Spesial",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masakapahariini.com%2Fwp-content%2Fuploads%2F2021%2F07%2FNasi-Goreng-Spesial-Ayam-Kecombrang.jpg&tbnid=iTgdzzMdduTQDM&vet=12ahUKEwigtdK0l7KGAxWG1jgGHRFhCwgQMygGegQIARBf..i&imgrefurl=https%3A%2F%2Fwww.masakapahariini.com%2Fresep%2Fresep-nasi-goreng-spesial-ayam-kecombrang%2F&docid=oB-PePHqqSh2pM&w=1280&h=853&q=nasi%20goreng%20spesial&ved=2ahUKEwigtdK0l7KGAxWG1jgGHRFhCwgQMygGegQIARBf",
+        "deskripsi": "Nasi goreng spesial adalah nasi yang digoreng dengan campuran bumbu, telur, ayam, dan sayuran. Disajikan dengan kerupuk dan acar.",
+        "bahan": "nasi putih, telur, ayam suwir, wortel cincang, buncis cincang, bawang merah, bawang putih, kecap manis, garam, merica, dan minyak goreng."
+    },
+    {
+        "id": 15,
+        "nama": "Sushi Roll",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg-global.cpcdn.com%2Frecipes%2F47866b5cd5c9cd06%2F680x482cq70%2Fkimbap-korean-sushi-roll-foto-resep-utama.jpg&tbnid=2ixzI9D_yT2xzM&vet=12ahUKEwia_djyl7KGAxWC8qACHakYDeoQMygAegQIARBM..i&imgrefurl=https%3A%2F%2Fcookpad.com%2Fid%2Fresep%2F14466482-kimbap-korean-sushi-roll&docid=RC9xLdKtaXeP2M&w=680&h=482&q=sushi%20roll&ved=2ahUKEwia_djyl7KGAxWC8qACHakYDeoQMygAegQIARBM",
+        "deskripsi": "Sushi roll adalah hidangan Jepang yang terdiri dari nasi sushi yang digulung dengan nori dan berisi ikan, sayuran, atau bahan lainnya.",
+        "bahan": "nasi sushi, nori, ikan salmon atau tuna, alpukat, mentimun, cuka beras, gula, garam."
+    },
+    {
+        "id": 16,
+        "nama": "Tacos",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmojo.generalmills.com%2Fapi%2Fpublic%2Fcontent%2FGmHhoT5mr0Sue2oMxdyEig_gmi_hi_res_jpeg.jpeg%3Fv%3Dfdaa7c14%26t%3D466b54bb264e48b199fc8e83ef1136b4&tbnid=Z84aQYa-ClXwZM&vet=12ahUKEwjD0-b8l7KGAxV-g2MGHRTeDPQQMygGegQIARBP..i&imgrefurl=https%3A%2F%2Fwww.bettycrocker.com%2Frecipes%2Feasy-beef-tacos%2F426c261d-b2eb-4e22-9cba-0066f3335591&docid=4D4uDc-4c0BzyM&w=800&h=450&q=tacos&ved=2ahUKEwjD0-b8l7KGAxV-g2MGHRTeDPQQMygGegQIARBP",
+        "deskripsi": "Tacos adalah hidangan khas Meksiko yang terdiri dari tortilla yang diisi dengan daging, sayuran, keju, dan saus.",
+        "bahan": "tortilla, daging sapi cincang, bawang bombay, paprika, tomat, selada, keju cheddar, saus salsa."
+    },
+    {
+        "id": 17,
+        "nama": "Pizza Margherita",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fasset.kompas.com%2Fcrops%2F_aMC-HU7taASfMRcywxK5d5RI-o%3D%2F17x22%3A985x667%2F750x500%2Fdata%2Fphoto%2F2022%2F07%2F23%2F62dbd7ac6e943.jpg&tbnid=ffiJJlPyQvbk2M&vet=12ahUKEwjHms2RmLKGAxVi8zgGHb6ODvIQMygDegQIARBT..i&imgrefurl=https%3A%2F%2Fwww.kompas.com%2Ffood%2Fread%2F2023%2F03%2F02%2F103716875%2Fresep-pizza-margherita-ala-rumahan-bikin-untuk-camilan-saat-wfh&docid=mG66JO8L86o_6M&w=750&h=500&q=pizza%20marghartia&ved=2ahUKEwjHms2RmLKGAxVi8zgGHb6ODvIQMygDegQIARBT",
+        "deskripsi": "Pizza Margherita adalah pizza klasik Italia yang dibuat dengan saus tomat, mozzarella, dan daun basil segar.",
+        "bahan": "adonan pizza, saus tomat, keju mozzarella, daun basil, minyak zaitun, garam."
+    },
+    {
+        "id": 18,
+        "nama": "Pad Thai",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.foodandwine.com%2Fthmb%2F9Vb8WuiTba45J_7HEXV6M58bo2U%3D%2F1500x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2FShrimp-Pad-Thai-FT-RECIPE0324-3132ca704bc0457e836127dbda403368.jpg&tbnid=3hiDLRlmFqdT9M&vet=12ahUKEwjfx6ydmLKGAxWGyTgGHTUmC3YQMygGegQIARBg..i&imgrefurl=https%3A%2F%2Fwww.foodandwine.com%2Frecipes%2Fquick-shrimp-pad-thai&docid=3SGXdBd3NRNpMM&w=1500&h=1000&q=pad%20thai&ved=2ahUKEwjfx6ydmLKGAxWGyTgGHTUmC3YQMygGegQIARBg",
+        "deskripsi": "Pad Thai adalah hidangan mie khas Thailand yang digoreng dengan telur, tahu, udang, dan tauge, disajikan dengan saus kacang dan jeruk nipis.",
+        "bahan": "mie beras, telur, tahu, udang, tauge, daun bawang, kacang tanah, saus pad thai, jeruk nipis."
+    },
+    {
+        "id": 19,
+        "nama": "Churros",
+        "foto": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.frisianflag.com%2Fstorage%2Fapp%2Fmedia%2Fuploaded-files%2Fchurros-saus-coklatkeju.jpg&tbnid=Twd39K6RLEy7LM&vet=12ahUKEwjC4o2umLKGAxWK9zgGHa53AD8QMygGegQIARBa..i&imgrefurl=https%3A%2F%2Fwww.frisianflag.com%2Fresep-kami%2Fresep-dengan-susu-bubuk%2Fresep-churros&docid=1BoUSgt0gzpJHM&w=600&h=400&q=churros&ved=2ahUKEwjC4o2umLKGAxWK9zgGHa53AD8QMygGegQIARBa",
+        "deskripsi": "Churros adalah kudapan manis asal Spanyol yang terbuat dari adonan yang digoreng dan ditaburi gula atau dicelupkan dalam cokelat leleh.",
+        "bahan": "tepung terigu, air, mentega, garam, telur, gula, kayu manis, cokelat leleh."
+    },
+    {
+        "id": 20,
+        "nama": "Pasta Aglio e Olio",
+        "foto": "https: //www.google.com/imgres?imgurl=https%3A%2F%2Fasset.kompas.com%2Fcrops%2FJObCwL_VdZ2_bF-eF0h3lvKuF6Y%3D%2F374x0%3A5186x3208%2F750x500%2Fdata%2Fphoto%2F2022%2F05%2F20%2F628758af571be.jpg&tbnid=9fw3ddYHdNNhXM&vet=12ahUKEwjoqK_ImLKGAxVQ3zgGHWSeCIwQMygcegUIARCcAQ..i&imgrefurl=https%3A%2F%2Fwww.kompas.com%2Ffood%2Fread%2F2022%2F05%2F21%2F174700175%2Fresep-spaghetti-aglio-olio-simpel-bumbu-bawang-putih-dan-minyak-zaitun&docid=AkSBdDmD6ZNSIM&w=750&h=500&q=pasta%20aglio%20olio&ved=2ahUKEwjoqK_ImLKGAxVQ3zgGHWSeCIwQMygcegUIARCcAQ",
+        "deskripsi": "Pasta aglio e olio adalah pasta yang disajikan dengan saus sederhana yang terbuat dari bawang putih cincang, cabai merah, minyak zaitun, dan parsley.",
+        "bahan": "spaghetti, bawang putih, cabai merah kering, minyak zaitun, parsley, keju parmesan, garam, dan merica."
     }
 ]
