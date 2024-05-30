@@ -2,6 +2,7 @@
     {
         "id": 1,
         "nama": "Bestik Sapi",
+        "video": "https://www.youtube.com/watch?v=T_4ZJwGSEv0",
         "foto": "https://www.masakapahariini.com/wp-content/uploads/2018/09/bistik-daging-MAHI-1.jpg",
         "deskripsi": "Bestik sapi adalah potongan daging tipis yang dimarinasi dengan bumbu khas, lalu dipanggang atau digoreng hingga empuk dan lezat. Sajian ini sering disertai dengan pelengkap seperti nasi atau kentang serta saus dan sayuran untuk meningkatkan kenikmatannya.",
         "bahan": "potongan daging sapi tipis (seperti sirloin atau tenderloin), bumbu marinasi seperti kecap manis, bawang putih cincang, garam, merica, minyak zaitun, serta bahan pelengkap seperti nasi atau kentang, saus, dan sayuran segar seperti wortel atau brokoli."
@@ -9,6 +10,7 @@
     {
         "id": 2,
         "nama": "Ayam Bakar Madu",
+        "video": "https://www.youtube.com/watch?v=qVxXK5Yj8RY",
         "foto": "https://asset.kompas.com/crops/R4R8t-PrQin6rVc2fmGoJ285_CQ=/130x0:1143x675/750x500/data/photo/2022/08/31/630edc8bda4b8.jpg",
         "deskripsi": "Ayam bakar madu adalah sajian ayam yang dimarinasi dengan campuran madu, kecap manis, dan rempah-rempah, kemudian dipanggang hingga matang dan berwarna kecokelatan. Rasanya manis, gurih, dan sedikit pedas, cocok disantap dengan nasi hangat dan lalapan segar.",
         "bahan": "potongan ayam, madu, kecap manis, bawang putih cincang, jahe cincang, cabai merah cincang, garam, merica, minyak goreng, serta pelengkap seperti nasi dan lalapan."
@@ -16,6 +18,7 @@
     {
         "id": 3,
         "nama": "Kue Cokelat Lumer",
+        "video": "https://www.youtube.com/watch?v=WLpQl7F2Bak",
         "foto": "https://assets-pergikuliner.com/0191CzwlBiofphFj-eUSvz8rA48=/fit-in/1366x768/smart/filters:no_upscale()/https://assets-pergikuliner.com/uploads/bootsy/image/4301/opera_cake.jpg",
         "deskripsi": "Kue cokelat lumer adalah kue dengan tekstur lembut dan lelehan cokelat di dalamnya. Cocok dinikmati dengan secangkir kopi atau teh.",
         "bahan": "tepung terigu, cokelat bubuk, mentega, gula pasir, telur, baking powder, dan cokelat batang."
@@ -23,6 +26,7 @@
     {
         "id": 4,
         "nama": "Lasagna Daging Sapi",
+        "video": "https://www.youtube.com/watch?v=Lhc4TebPjwQ",
         "foto": "https://static8.depositphotos.com/1030334/827/i/450/depositphotos_8272249-stock-photo-lasagna.jpg",
         "deskripsi": "Lasagna daging sapi adalah pasta lapis dengan saus daging sapi, saus béchamel, dan keju, dipanggang hingga keju meleleh dan berwarna kecokelatan.",
         "bahan": "lembaran lasagna, daging sapi cincang, saus tomat, bawang bombay cincang, bawang putih cincang, keju mozzarella, keju parmesan, dan saus béchamel."
@@ -30,6 +34,7 @@
     {
         "id": 5,
         "nama": "Steak Daging Sapi",
+        "video": "https://www.youtube.com/watch?v=-VE9otk1ptM",
         "foto": "https://ayomakan.oss-ap-southeast-5.aliyuncs.com/general/5f63f8eb943b6b9d6a680d0b290f1121.jpg",
         "deskripsi": "Steak daging sapi adalah potongan daging sapi yang dipanggang atau digoreng hingga tingkat kematangan yang diinginkan. Biasanya disajikan dengan saus steak dan sayuran panggang.",
         "bahan": "potongan daging sapi, garam, merica, minyak zaitun, bawang putih cincang, dan saus steak."
@@ -37,6 +42,7 @@
     {
         "id": 6,
         "nama": "Spaghetti Carbonara",
+        "video": "https://www.youtube.com/watch?v=Qo4dCxpOubA",
         "foto": "https://akcdn.detik.net.id/visual/2021/12/13/spaghetti_169.jpeg?w=650",
         "deskripsi": "Spaghetti carbonara adalah pasta yang disajikan dengan saus berbasis telur, keju, pancetta, dan lada hitam.",
         "bahan": "spaghetti, telur, keju parmesan, pancetta atau bacon, bawang putih cincang, dan lada hitam."
@@ -44,6 +50,7 @@
     {
         "id": 7,
         "nama": "Brownies Panggang",
+        "video": "https://www.youtube.com/watch?v=jA85gKSY2nI",
         "foto": "https://pesonanusantara.co.id/images/upload//p/e/pes-brownies-mutiara.jpg",
         "deskripsi": "Brownies panggang adalah kue dengan tekstur fudgy yang kaya akan cokelat. Biasanya disajikan dalam potongan kotak kecil.",
         "bahan": "tepung terigu, gula pasir, mentega, cokelat batang, telur, dan vanili."
@@ -51,6 +58,7 @@
     {
         "id": 8,
         "nama": "Ayam Panggang Madu",
+        "video": "https://www.youtube.com/watch?v=l-AVJdfZj_Y",
         "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYildLLF_zD9_4oXim9sgNEd5aZSO6834W-A&s",
         "deskripsi": "Ayam panggang madu adalah ayam yang dipanggang dengan bumbu madu, kecap manis, dan rempah-rempah hingga matang sempurna.",
         "bahan": "ayam utuh, madu, kecap manis, bawang putih cincang, jahe cincang, garam, merica, dan minyak zaitun."
@@ -58,6 +66,7 @@
     {
         "id": 9,
         "nama": "Pasta Alfredo",
+        "video": "https://www.youtube.com/watch?v=8lspVtNKW2k",
         "foto": "https://cdn1-production-images-kly.akamaized.net/_Qe8oO_Sn8LKD6LDZTuTay7-DtQ=/500x281/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2900265/original/027400800_1567492032-background-cheese-cook-1487511.jpg",
         "deskripsi": "Pasta Alfredo adalah pasta yang disajikan dengan saus krim yang terbuat dari mentega, keju parmesan, dan krim kental.",
         "bahan": "fettuccine, mentega, keju parmesan, krim kental, dan bawang putih cincang."
@@ -65,6 +74,7 @@
     {
         "id": 10,
         "nama": "Kue Keju",
+        "video": "https://www.youtube.com/watch?v=5mn4EnP9Kvw",
         "foto": "https://asset-2.tstatic.net/travel/foto/bank/images/kastengel_20180617_141225.jpg",
         "deskripsi": "Kue keju adalah kue berbasis krim keju dengan tekstur lembut dan rasa yang creamy. Biasanya disajikan dengan saus buah atau topping lainnya.",
         "bahan": "krim keju, gula pasir, telur, vanili, dan biskuit untuk dasar."
@@ -72,6 +82,7 @@
     {
         "id": 11,
         "nama": "Rendang Daging",
+        "video": "https://www.youtube.com/watch?v=fEpt5JX7nQc",
         "foto": "https://asset.kompas.com/crops/CLl1Cwf8LhxTc3ZMeFeIwZsLrMA=/0x657:1600x1724/750x500/data/photo/2021/07/26/60fed016da57b.jpg",
         "deskripsi": "Rendang daging adalah masakan khas Indonesia yang terbuat dari daging sapi yang dimasak lama dengan santan dan rempah-rempah hingga empuk dan bumbu meresap.",
         "bahan": "daging sapi, santan, bawang merah, bawang putih, jahe, lengkuas, cabai merah, dan rempah-rempah."
@@ -79,6 +90,7 @@
     {
         "id": 12,
         "nama": "Pasta Pesto",
+        "video": "https://www.youtube.com/watch?v=IHor2XHwaP8",
         "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRffQDthDjyjTFlUx7qM5B4qR2JsN0r1gdJ0w&s",
         "deskripsi": "Pasta pesto adalah pasta yang disajikan dengan saus pesto yang terbuat dari daun basil, keju parmesan, kacang pinus, bawang putih, dan minyak zaitun.",
         "bahan": "pasta, daun basil, keju parmesan, kacang pinus, bawang putih, dan minyak zaitun."
@@ -86,6 +98,7 @@
     {
         "id": 13,
         "nama": "Nasi Goreng Spesial",
+        "video": "https://www.youtube.com/watch?v=Js9FXCkn798",
         "foto": "https://asset.kompas.com/crops/MrdYDsxogO0J3wGkWCaGLn2RHVc=/84x60:882x592/750x500/data/photo/2021/11/17/61949959e07d3.jpg",
         "deskripsi": "Nasi goreng spesial adalah nasi yang digoreng dengan campuran bumbu, telur, ayam, dan sayuran. Disajikan dengan kerupuk dan acar.",
         "bahan": "nasi putih, telur, ayam suwir, wortel cincang, buncis cincang, bawang merah, bawang putih, kecap manis, garam, merica, dan minyak goreng."
@@ -93,6 +106,7 @@
     {
         "id": 14,
         "nama": "Nasi Goreng Spesial",
+        "video": "https://www.youtube.com/watch?v=cqSDDmYqRgg",
         "foto": "https://cdn1-production-images-kly.akamaized.net/j4KFsV4Pl08lGnhCED4Gm0LR3kE=/0x148:1920x1230/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3093328/original/069244600_1585909700-fried-2509089_1920.jpg",
         "deskripsi": "Nasi goreng spesial adalah nasi yang digoreng dengan campuran bumbu, telur, ayam, dan sayuran. Disajikan dengan kerupuk dan acar.",
         "bahan": "nasi putih, telur, ayam suwir, wortel cincang, buncis cincang, bawang merah, bawang putih, kecap manis, garam, merica, dan minyak goreng."
@@ -100,6 +114,7 @@
     {
         "id": 15,
         "nama": "Sushi Roll",
+        "video": "https://www.youtube.com/watch?v=QX4f_oMubLk",
         "foto": "https://api-lotte.hollacode.com/api/static/inspirasi/1668577941434-mengenal-10-jenis-sushi-yang-populer-dan-sering-dikonsumsi.jpg",
         "deskripsi": "Sushi roll adalah hidangan Jepang yang terdiri dari nasi sushi yang digulung dengan nori dan berisi ikan, sayuran, atau bahan lainnya.",
         "bahan": "nasi sushi, nori, ikan salmon atau tuna, alpukat, mentimun, cuka beras, gula, garam."
@@ -107,6 +122,7 @@
     {
         "id": 16,
         "nama": "Tacos",
+        "video": "https://www.youtube.com/watch?v=eKVKYNFKx54",
         "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfDO0DqfbKzUi_UNNrk26xqVCbKxiJhi8ynQ&s",
         "deskripsi": "Tacos adalah hidangan khas Meksiko yang terdiri dari tortilla yang diisi dengan daging, sayuran, keju, dan saus.",
         "bahan": "tortilla, daging sapi cincang, bawang bombay, paprika, tomat, selada, keju cheddar, saus salsa."
@@ -114,6 +130,7 @@
     {
         "id": 17,
         "nama": "Pizza Margherita",
+        "video": "https://www.youtube.com/watch?v=GPSpAEU75-0",
         "foto": "https://static.republika.co.id/uploads/images/inpicture_slide/foto-ilustrasi-pizza_200628231434-554.jpeg",
         "deskripsi": "Pizza Margherita adalah pizza klasik Italia yang dibuat dengan saus tomat, mozzarella, dan daun basil segar.",
         "bahan": "adonan pizza, saus tomat, keju mozzarella, daun basil, minyak zaitun, garam."
@@ -121,6 +138,7 @@
     {
         "id": 18,
         "nama": "Pad Thai",
+        "video": "https://www.youtube.com/watch?v=2xAz3dNUZoY",
         "foto": "https://assets-pergikuliner.com/CNxffkEA-h0MmMRLRZdgogh73EY=/fit-in/1366x768/smart/filters:no_upscale()/https://assets-pergikuliner.com/uploads/bootsy/image/20638/pad_thai.jpg",
         "deskripsi": "Pad Thai adalah hidangan mie khas Thailand yang digoreng dengan telur, tahu, udang, dan tauge, disajikan dengan saus kacang dan jeruk nipis.",
         "bahan": "mie beras, telur, tahu, udang, tauge, daun bawang, kacang tanah, saus pad thai, jeruk nipis."
@@ -128,6 +146,7 @@
     {
         "id": 19,
         "nama": "Churros",
+        "video": "https://www.youtube.com/watch?v=i5Mix9Xrfkc",
         "foto": "https://kampungkaleng.com/wp-content/uploads/2022/05/2a2c204ba68810caefc9eb7e4eb1fa31-1.jpg",
         "deskripsi": "Churros adalah kudapan manis asal Spanyol yang terbuat dari adonan yang digoreng dan ditaburi gula atau dicelupkan dalam cokelat leleh.",
         "bahan": "tepung terigu, air, mentega, garam, telur, gula, kayu manis, cokelat leleh."
@@ -135,6 +154,7 @@
     {
         "id": 20,
         "nama": "Pasta Aglio e Olio",
+        "video": "https://www.youtube.com/watch?v=UL_QqRmawGs",
         "foto": "https://cdn.idntimes.com/content-images/post/20190227/foodnetworkcom-6131d6c96c34906aeb0b4f4827bb0fbc.jpeg",
         "deskripsi": "Pasta aglio e olio adalah pasta yang disajikan dengan saus sederhana yang terbuat dari bawang putih cincang, cabai merah, minyak zaitun, dan parsley.",
         "bahan": "spaghetti, bawang putih, cabai merah kering, minyak zaitun, parsley, keju parmesan, garam, dan merica."
